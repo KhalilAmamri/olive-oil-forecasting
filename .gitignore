@@ -30,8 +30,8 @@ htmlcov/
 
 # Data, models and outputs (ignore large artifacts)
 data/
-models/
-reports/
+# models/
+# reports/
 powerbi/
 *.csv
 *.parquet
