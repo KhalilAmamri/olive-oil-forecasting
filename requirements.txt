@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+cmdstanpy==1.2.1
+prophet
